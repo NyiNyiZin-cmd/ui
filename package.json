@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "base": "/ui",
-  "homepage": "https://github.com/NyiNyiZin-cmd/ui",
+  "homepage": "https://nyinyizin-cmd.github.io/ui/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
